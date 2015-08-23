@@ -1,0 +1,146 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.moopoint.vidzert.MainActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="POLICE"
+            android:id="@+id/police_tag"
+            android:textColor="#88000000"/>
+
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/police"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text="Call"
+            android:layout_alignParentRight="true"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="FIRE"
+        android:id="@+id/fire_tag"
+        android:textColor="#88000000"
+        />
+
+    <com.gc.materialdesign.views.ButtonRectangle
+        android:id="@+id/fire"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="#1E88E5"
+        android:text="Call"
+        android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="AMBULANCE"
+            android:textColor="#88000000"
+            />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/ambulance"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text="Call"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Blood Bank Organisation"
+            android:textColor="#88000000"
+            />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/blood_bank"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text="Call"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Bomb Disposal Squad"
+            android:textColor="#88000000"
+            />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/bomb"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text="Call"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Railways Enquiry"
+            android:textColor="#88000000"
+            />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/railways"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text="Call"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</LinearLayout>
