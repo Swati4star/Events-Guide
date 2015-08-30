@@ -4,3 +4,8 @@ A Delhi events android app, which can act as a complete master control for an ex
 
 ![S1](/../master/app/src/main/res/drawable/s1.png "" )
 ![S2](/../master/app/src/main/res/drawable/s2.png "")
+![S1](/../master/app/src/main/res/drawable/s3.png "" )
+![S2](/../master/app/src/main/res/drawable/s4.png "")
+![S1](/../master/app/src/main/res/drawable/s5.png "" )
+![S2](/../master/app/src/main/res/drawable/s6.png "")
+![S1](/../master/app/src/main/res/drawable/s7.png "" )
