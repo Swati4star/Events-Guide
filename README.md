@@ -16,7 +16,7 @@ A Delhi events android app, which can act as a complete master control for an ex
 
 ----
 ###Developers
-[Swati Garg](https://gituhub.com/Swati4star)
-[Prabhakar Gupta](https://github.com/prabhakar267)
-[Pranav Aggarwal](https://github.com/pranavagg)
+[Swati Garg](https://gituhub.com/Swati4star)<br>
+[Prabhakar Gupta](https://github.com/prabhakar267)<br>
+[Pranav Aggarwal](https://github.com/pranavagg)<br>
 [Suryansh Tiberawal](https://github.com/suryansh-tibarewal)
