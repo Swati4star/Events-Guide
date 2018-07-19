@@ -2,24 +2,24 @@
 
 A Delhi events android app, which can act as a complete master control for an explorer. It provides the user with the list of events happening around him (all events as well as the events specially recommended for him), list of nearby places including restaurants, shopping places, nearby attractions, hotels, distance from current location; basically a complete Tour Guide! 
 
-####All available options 
+#### All available options 
 ![S1](/../master/app/src/main/res/drawable/s7.png "" )
 
-####All events and Recommended events
+#### All events and Recommended events
 ![S2](/../master/app/src/main/res/drawable/s2.png "")
 ![S2](/../master/app/src/main/res/drawable/s4.png "")
 
-####Event details
+#### Event details
 ![S1](/../master/app/src/main/res/drawable/s1.png "" )
 ![S1](/../master/app/src/main/res/drawable/s5.png "" )
 ![S2](/../master/app/src/main/res/drawable/s6.png "")
 
 ----
-###Server Side GitHub Repo
+### Server Side GitHub Repo
 [https://github.com/prabhakar267/HackIIITD-2015-events-guide-Server-side](https://github.com/prabhakar267/HackIIITD-2015-events-guide-Server-side)
 
 ----
-###Developers
+### Developers
 [Swati Garg](https://gituhub.com/Swati4star)<br>
 [Prabhakar Gupta](https://github.com/prabhakar267)<br>
 [Pranav Aggarwal](https://github.com/pranavagg)<br>
